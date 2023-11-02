@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6543ebda893d7d3133c943a8"
+  },
+  "adreça": "Carrer Asturias, 12",
+  "codi_postal": "08191",
+  "cognoms": "Santiño Portos",
+  "localitat": "Rubi",
+  "nom": "Alejandro",
+  "provincia": "Barcelona",
+  "telefon": "666000666"
+},
+{
+  "_id": {
+    "$oid": "6543ec6f893d7d3133c943a9"
+  },
+  "adreça": "Barcelona, 2",
+  "codi_postal": "08191",
+  "cognoms": "Gomes Varela",
+  "localitat": "Rubi",
+  "nom": "Marcos",
+  "provincia": "Barcelona",
+  "telefon": "677700666"
+},
+{
+  "_id": {
+    "$oid": "6543ec77893d7d3133c943aa"
+  },
+  "adreça": "Carrer Lope de Vega, 2",
+  "codi_postal": "08390",
+  "cognoms": "Martinez Girós",
+  "localitat": "Montgat",
+  "nom": "Marc",
+  "provincia": "Barcelona",
+  "telefon": "666999666"
+},
+{
+  "_id": {
+    "$oid": "6543ec7b893d7d3133c943ab"
+  },
+  "adreça": "Carretera de Rubi, 12",
+  "codi_postal": "08091",
+  "cognoms": "Gomez de la Hoya",
+  "localitat": "Terrassa",
+  "nom": "Ramiro",
+  "provincia": "Barcelona",
+  "telefon": "666888999"
+}]

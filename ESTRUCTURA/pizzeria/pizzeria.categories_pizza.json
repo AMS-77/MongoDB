@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "6543e99c893d7d3133c943a3"
+  },
+  "nom": "vegetariana"
+},
+{
+  "_id": {
+    "$oid": "6543eb15893d7d3133c943a4"
+  },
+  "nom": "de la casa"
+},
+{
+  "_id": {
+    "$oid": "6543eb3f893d7d3133c943a5"
+  },
+  "nom": "de carns"
+}]

@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "6543ed85893d7d3133c943ae"
+  },
+  "descripcio": "hamburguesa de pollastre amb verdura i ceba picant",
+  "imatge_URL": "https://calpaquis.com/hamburguesa.jpg",
+  "nom": "Hamburguesa de la casa",
+  "preu": 9.99,
+  "tipus_producte": "hamburguesa"
+},
+{
+  "_id": {
+    "$oid": "6543ef80893d7d3133c943b4"
+  },
+  "descripcio": "salsa de tomaquet i doble de mozzarella",
+  "imatge_URL": "https://calpaquis.com/margarita.jpg",
+  "nom": "Margarita",
+  "preu": 19.99,
+  "tipus_producte": "pizza",
+  "categoria_pizza_id": {
+    "$oid": "6543e99c893d7d3133c943a3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6543f009893d7d3133c943b8"
+  },
+  "descripcio": "salsa de tomaquet, mozzarella, pollastre, ternera, ceba, olives",
+  "imatge_URL": "https://calpaquis.com/calpaquis.jpg",
+  "nom": "Cal Paquis",
+  "preu": 29,
+  "tipus_producte": "pizza",
+  "categoria_pizza_id": {
+    "$oid": "6543eb15893d7d3133c943a4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6543f081893d7d3133c943b9"
+  },
+  "descripcio": "salsa de tomaquet, mozzarella, carn picada, salami, jalapeño",
+  "imatge_URL": "https://calpaquis.com/mexicana.jpg",
+  "nom": "mexicana",
+  "preu": 25.5,
+  "tipus_producte": "pizza",
+  "categoria_pizza_id": {
+    "$oid": "6543eb3f893d7d3133c943a5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6543f11d893d7d3133c943bc"
+  },
+  "descripcio": "cervesa casera",
+  "imatge_URL": "https://calpaquis.com/paquisbier.jpg",
+  "nom": "paquisbier",
+  "preu": 5.5,
+  "tipus_producte": "beguda"
+},
+{
+  "_id": {
+    "$oid": "6543f18b893d7d3133c943bd"
+  },
+  "descripcio": "suc de taronja amb pomelo",
+  "imatge_URL": "https://calpaquis.com/sucdelacasa.jpg",
+  "nom": "suc de la casa",
+  "preu": 5.5,
+  "tipus_producte": "beguda"
+}]

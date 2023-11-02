@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6543e301893d7d3133c94392"
+  },
+  "adreça": "Carrer Copernic, 21",
+  "codi_postal": "08191",
+  "localitat": "Rubí",
+  "provincia": "Barcelona"
+},
+{
+  "_id": {
+    "$oid": "6543e369893d7d3133c94393"
+  },
+  "adreça": "Carrer Galileo, 30",
+  "codi_postal": "08097",
+  "localitat": "Sabadell",
+  "provincia": "Barcelona"
+},
+{
+  "_id": {
+    "$oid": "6543e372893d7d3133c94394"
+  },
+  "adreça": "Carrer Larousse, 45",
+  "codi_postal": "08930",
+  "localitat": "Montgat",
+  "provincia": "Barcelona"
+},
+{
+  "_id": {
+    "$oid": "6543e37a893d7d3133c94395"
+  },
+  "adreça": "Carrer Copernic, 21",
+  "codi_postal": "08191",
+  "localitat": "Rubí",
+  "provincia": "Barcelona"
+}]

@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "6543e201893d7d3133c9438e"
+  },
+  "botiga_id": {
+    "$oid": "6543e301893d7d3133c94392"
+  },
+  "cognoms": "Patiño Suarez",
+  "nif": "52599966G",
+  "nom": "Alex",
+  "telefon": "666999000",
+  "tipus_feina": "cuiner"
+},
+{
+  "_id": {
+    "$oid": "6543e4e8893d7d3133c9439a"
+  },
+  "botiga_id": {
+    "$oid": "6543e37a893d7d3133c94395"
+  },
+  "cognoms": "Suarez Suarez",
+  "nif": "56699966G",
+  "nom": "Toni",
+  "telefon": "677999000",
+  "tipus_feina": "repartidor"
+},
+{
+  "_id": {
+    "$oid": "6543e5e5893d7d3133c9439d"
+  },
+  "botiga_id": {
+    "$oid": "6543e372893d7d3133c94394"
+  },
+  "cognoms": "Marín Gonzalez",
+  "nif": "66697966T",
+  "nom": "Sara",
+  "telefon": "688666000",
+  "tipus_feina": "repartidor"
+},
+{
+  "_id": {
+    "$oid": "6543e643893d7d3133c9439e"
+  },
+  "botiga_id": {
+    "$oid": "6543e372893d7d3133c94394"
+  },
+  "cognoms": "Martí Rodoreda",
+  "nif": "55597966T",
+  "nom": "Joan",
+  "telefon": "655666700",
+  "tipus_feina": "repartidor"
+}]

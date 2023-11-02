@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "6543f24d893d7d3133c943c0"
+  },
+  "data_hora": {
+    "$date": "2023-02-10T23:20:05.000Z"
+  },
+  "producte_id": {
+    "$oid": "6543ed85893d7d3133c943ae"
+  },
+  "repartidor_id": {
+    "$oid": "6543e4e8893d7d3133c9439a"
+  },
+  "tipus_comanda": "repartiment a domicili",
+  "botiga_id": {
+    "$oid": "6543e369893d7d3133c94393"
+  },
+  "data_hora_lliurament": {
+    "$date": "2023-01-10T23:18:30.000Z"
+  },
+  "client_id": {
+    "$oid": "6543ebda893d7d3133c943a8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6543f494893d7d3133c943cf"
+  },
+  "data_hora": {
+    "$date": "2023-02-10T23:10:05.000Z"
+  },
+  "producte_id": {
+    "$oid": "6543f081893d7d3133c943b9"
+  },
+  "tipus_comanda": "recollida en botiga",
+  "botiga_id": {
+    "$oid": "6543e37a893d7d3133c94395"
+  },
+  "client_id": {
+    "$oid": "6543ec7b893d7d3133c943ab"
+  }
+}]
