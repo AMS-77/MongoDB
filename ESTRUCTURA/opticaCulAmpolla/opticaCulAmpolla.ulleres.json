@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "654315ef9eeee3d6c6fbdb44"
+  },
+  "color_montura": "verd",
+  "color_vidre_dret": "blau",
+  "color_vidre_esq": "verd",
+  "graduacio_dret": 1.3,
+  "graduacio_esq": 0.33,
+  "marca": "marca1",
+  "preu": 99.99,
+  "tipus_montura": "flotant"
+},
+{
+  "_id": {
+    "$oid": "6543172a9eeee3d6c6fbdb45"
+  },
+  "color_montura": "vermell",
+  "color_vidre_dret": "blau",
+  "color_vidre_esq": "verd",
+  "graduacio_dret": 2.3,
+  "graduacio_esq": 1.33,
+  "marca": "marca2",
+  "preu": 199.99,
+  "tipus_montura": "pasta"
+},
+{
+  "_id": {
+    "$oid": "654317349eeee3d6c6fbdb46"
+  },
+  "color_montura": "negra",
+  "color_vidre_dret": "transparent",
+  "color_vidre_esq": "transparent",
+  "graduacio_dret": 1,
+  "graduacio_esq": 0.83,
+  "marca": "marca3",
+  "preu": 99,
+  "tipus_montura": "metalica"
+}]
