@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6543123c9eeee3d6c6fbdb3d"
+  },
+  "nom": "Pep Salmeron",
+  "adreça": {
+    "carrer": "Portal nou",
+    "numero": 20,
+    "pis": "6",
+    "porta": "3",
+    "ciutat": "Badalona",
+    "codi_postal": "08930",
+    "pais": "Espanya"
+  },
+  "telefon": "938907040",
+  "email": "pepsal@outlook.es",
+  "data_registre": {
+    "$date": "2023-10-10T22:00:00.000Z"
+  },
+  "client_recomanador": "Montse Comines",
+  "vendes": [
+    {
+      "$oid": "654315ef9eeee3d6c6fbdb44"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6543141f9eeee3d6c6fbdb3f"
+  },
+  "nom": "Montse Comines",
+  "adreça": {
+    "carrer": "Pearson",
+    "numero": 40,
+    "pis": "5",
+    "porta": "6",
+    "ciutat": "Ripollet",
+    "codi_postal": "08810",
+    "pais": "Espanya"
+  },
+  "telefon": "936928040",
+  "email": "moncom@outlook.es",
+  "data_registre": {
+    "$date": "2023-08-08T22:00:00.000Z"
+  },
+  "client_recomanador": "",
+  "vendes": [
+    {
+      "$oid": "654315ef9eeee3d6c6fbdb44"
+    },
+    {
+      "$oid": "6543172a9eeee3d6c6fbdb45"
+    }
+  ]
+}]

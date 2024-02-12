@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "6540c54bc8e40686b61125b3"
+  },
+  "nomProveidor": "LentesRubí",
+  "adreça": {
+    "carrer": "Edison",
+    "número": 1,
+    "pis": "baixos",
+    "porta": "A",
+    "ciutat": "Rubí",
+    "país": "Espanya",
+    "cod_postal": "08191"
+  },
+  "telefon": 666777888,
+  "fax": 935880000,
+  "nif": "B6666999G"
+},
+{
+  "_id": {
+    "$oid": "654300707fc4aa6877c8bb89"
+  },
+  "nomProveidor": "LentesSabadell",
+  "adreça": {
+    "carrer": "Tenor",
+    "número": 10,
+    "pis": "baixos",
+    "porta": "B",
+    "ciutat": "Sabadell",
+    "país": "Espanya",
+    "cod_postal": "08991"
+  },
+  "telefon": 688777888,
+  "fax": 937990000,
+  "nif": "B7766999G"
+},
+{
+  "_id": {
+    "$oid": "6543010f7fc4aa6877c8bb8a"
+  },
+  "nomProveidor": "fabrica92",
+  "adreça": {
+    "carrer": "camp",
+    "número": 10,
+    "pis": "baixos",
+    "porta": "C",
+    "ciutat": "Sabadell",
+    "país": "Espanya",
+    "cod_postal": "08991"
+  },
+  "telefon": 698666888,
+  "fax": 936990000,
+  "nif": "B9966999G"
+}]
