@@ -20,7 +20,16 @@
   "client_recomanador": "Montse Comines",
   "vendes": [
     {
-      "$oid": "654315ef9eeee3d6c6fbdb44"
+      "$oid": "654315ef9eeee3d6c6fbdb44",
+      "color_vidre_dret": "blau",
+      "color_vidre_esq": "verd",
+      "graduacio_dret": 1.3,
+      "graduacio_esq": 0.33,
+      "marca": "marca1",
+      "preu": 99.99,
+      "tipus_montura": "flotant",
+      "data_hora": "2023-12-09T23:00:00.000Z",
+      "nom_venedor": "Joan Manel Valencia"
     }
   ]
 },
@@ -46,10 +55,28 @@
   "client_recomanador": "",
   "vendes": [
     {
-      "$oid": "654315ef9eeee3d6c6fbdb44"
+      "$oid": "654315ef9eeee3d6c6fbdb44",
+      "color_vidre_dret": "blau",
+      "color_vidre_esq": "verd",
+      "graduacio_dret": 1.3,
+      "graduacio_esq": 0.33,
+      "marca": "marca1",
+      "preu": 99.99,
+      "tipus_montura": "flotant",
+      "$date": "2023-12-09T23:00:00.000Z",
+      "nom_venedor": "Joan Manel Valencia"
     },
     {
-      "$oid": "6543172a9eeee3d6c6fbdb45"
+      "$oid": "6543172a9eeee3d6c6fbdb45",
+      "color_vidre_dret": "blau",
+      "color_vidre_esq": "verd",
+      "graduacio_dret": 2.3,
+      "graduacio_esq": 1.33,
+      "marca": "marca2",
+      "preu": 199.99,
+      "tipus_montura": "pasta",
+      "$date": "2023-12-09T23:00:00.000Z",
+      "nom_venedor": "Maria Valencia"
     }
   ]
 }]

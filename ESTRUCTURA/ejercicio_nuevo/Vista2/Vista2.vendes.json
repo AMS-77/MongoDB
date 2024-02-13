@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6543191a9eeee3d6c6fbdb49"
+  },
+  "client_id": {
+    "$oid": "654311f79eeee3d6c6fbdb3c"
+  },
+  "ulleres_id": {
+    "$oid": "654315ef9eeee3d6c6fbdb44"
+  },
+  "data_venda": {
+    "$date": "2023-12-09T23:00:00.000Z"
+  },
+  "nom_venedor": "Joan Manel Valencia"
+},
+{
+  "_id": {
+    "$oid": "65431b2f9eeee3d6c6fbdb55"
+  },
+  "client_id": {
+    "$oid": "654311f79eeee3d6c6fbdb3c"
+  },
+  "ulleres_id": {
+    "$oid": "6543172a9eeee3d6c6fbdb45"
+  },
+  "data_venda": {
+    "$date": "2023-12-09T23:00:00.000Z"
+  },
+  "nom_venedor": "Joan Manel Valencia"
+},
+{
+  "_id": {
+    "$oid": "65431b879eeee3d6c6fbdb58"
+  },
+  "client_id": {
+    "$oid": "6543141f9eeee3d6c6fbdb3f"
+  },
+  "ulleres_id": {
+    "$oid": "654317349eeee3d6c6fbdb46"
+  },
+  "data_venda": {
+    "$date": "2023-12-09T23:00:00.000Z"
+  },
+  "nom_venedor": "Maria Valencia"
+}]
